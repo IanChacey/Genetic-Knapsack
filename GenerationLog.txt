@@ -1,0 +1,588 @@
+Generation #1
+Average Fitness: 98.6262
+Max Fitness: 142.7
+
+Generation #2
+Average Fitness: 101.067
+Max Fitness: 148.5
+
+Generation #3
+Average Fitness: 103.621
+Max Fitness: 156
+
+Generation #4
+Average Fitness: 107.905
+Max Fitness: 162.6
+
+Generation #5
+Average Fitness: 112.042
+Max Fitness: 162.6
+
+Generation #6
+Average Fitness: 115.545
+Max Fitness: 181.2
+
+Generation #7
+Average Fitness: 120.344
+Max Fitness: 181.2
+
+Generation #8
+Average Fitness: 125.555
+Max Fitness: 198.7
+
+Generation #9
+Average Fitness: 128.467
+Max Fitness: 198.7
+
+Generation #10
+Average Fitness: 129.778
+Max Fitness: 198.7
+
+Generation #11
+Average Fitness: 133.047
+Max Fitness: 198.7
+
+Generation #12
+Average Fitness: 136.759
+Max Fitness: 206.4
+
+Generation #13
+Average Fitness: 140.281
+Max Fitness: 208.8
+
+Generation #14
+Average Fitness: 144.5
+Max Fitness: 220.8
+
+Generation #15
+Average Fitness: 148.153
+Max Fitness: 235.1
+
+Generation #16
+Average Fitness: 151.775
+Max Fitness: 235.1
+
+Generation #17
+Average Fitness: 156.955
+Max Fitness: 235.1
+
+Generation #18
+Average Fitness: 160.628
+Max Fitness: 235.1
+
+Generation #19
+Average Fitness: 165.02
+Max Fitness: 235.1
+
+Generation #20
+Average Fitness: 169.247
+Max Fitness: 237.9
+
+Generation #21
+Average Fitness: 172.985
+Max Fitness: 241.8
+
+Generation #22
+Average Fitness: 178.353
+Max Fitness: 241.8
+
+Generation #23
+Average Fitness: 182.308
+Max Fitness: 246.1
+
+Generation #24
+Average Fitness: 186.731
+Max Fitness: 256.5
+
+Generation #25
+Average Fitness: 193.091
+Max Fitness: 258.4
+
+Generation #26
+Average Fitness: 197.57
+Max Fitness: 262.6
+
+Generation #27
+Average Fitness: 200.708
+Max Fitness: 262.9
+
+Generation #28
+Average Fitness: 203.965
+Max Fitness: 262.9
+
+Generation #29
+Average Fitness: 207.609
+Max Fitness: 262.8
+
+Generation #30
+Average Fitness: 211.913
+Max Fitness: 293
+
+Generation #31
+Average Fitness: 215.617
+Max Fitness: 293
+
+Generation #32
+Average Fitness: 218.696
+Max Fitness: 293
+
+Generation #33
+Average Fitness: 223.535
+Max Fitness: 284
+
+Generation #34
+Average Fitness: 226.563
+Max Fitness: 292.8
+
+Generation #35
+Average Fitness: 230.067
+Max Fitness: 303.8
+
+Generation #36
+Average Fitness: 234.445
+Max Fitness: 292.8
+
+Generation #37
+Average Fitness: 236.991
+Max Fitness: 292.8
+
+Generation #38
+Average Fitness: 239.472
+Max Fitness: 291.8
+
+Generation #39
+Average Fitness: 242.188
+Max Fitness: 303.4
+
+Generation #40
+Average Fitness: 244.495
+Max Fitness: 308.6
+
+Generation #41
+Average Fitness: 246.464
+Max Fitness: 303.4
+
+Generation #42
+Average Fitness: 247.471
+Max Fitness: 303.4
+
+Generation #43
+Average Fitness: 249.255
+Max Fitness: 308.8
+
+Generation #44
+Average Fitness: 250.81
+Max Fitness: 304.2
+
+Generation #45
+Average Fitness: 251.868
+Max Fitness: 304.2
+
+Generation #46
+Average Fitness: 253.66
+Max Fitness: 313
+
+Generation #47
+Average Fitness: 255.803
+Max Fitness: 308.3
+
+Generation #48
+Average Fitness: 258.619
+Max Fitness: 304.2
+
+Generation #49
+Average Fitness: 261.244
+Max Fitness: 309.1
+
+Generation #50
+Average Fitness: 263.412
+Max Fitness: 309.1
+
+Generation #51
+Average Fitness: 265.954
+Max Fitness: 311
+
+Generation #52
+Average Fitness: 265.949
+Max Fitness: 323.4
+
+Generation #53
+Average Fitness: 268.911
+Max Fitness: 323.4
+
+Generation #54
+Average Fitness: 271.637
+Max Fitness: 323.4
+
+Generation #55
+Average Fitness: 274.636
+Max Fitness: 333.5
+
+Generation #56
+Average Fitness: 277.129
+Max Fitness: 323.4
+
+Generation #57
+Average Fitness: 277.273
+Max Fitness: 326.3
+
+Generation #58
+Average Fitness: 277.938
+Max Fitness: 328.1
+
+Generation #59
+Average Fitness: 279.569
+Max Fitness: 323.4
+
+Generation #60
+Average Fitness: 280.838
+Max Fitness: 325
+
+Generation #61
+Average Fitness: 282.472
+Max Fitness: 335.8
+
+Generation #62
+Average Fitness: 283.125
+Max Fitness: 335.8
+
+Generation #63
+Average Fitness: 285.349
+Max Fitness: 338
+
+Generation #64
+Average Fitness: 285.594
+Max Fitness: 338
+
+Generation #65
+Average Fitness: 288.741
+Max Fitness: 338
+
+Generation #66
+Average Fitness: 290.487
+Max Fitness: 338
+
+Generation #67
+Average Fitness: 290.918
+Max Fitness: 343.2
+
+Generation #68
+Average Fitness: 292.062
+Max Fitness: 346.5
+
+Generation #69
+Average Fitness: 292.477
+Max Fitness: 353.7
+
+Generation #70
+Average Fitness: 295.152
+Max Fitness: 353.7
+
+Generation #71
+Average Fitness: 295.823
+Max Fitness: 354.7
+
+Generation #72
+Average Fitness: 299.176
+Max Fitness: 353.7
+
+Generation #73
+Average Fitness: 299.831
+Max Fitness: 353.7
+
+Generation #74
+Average Fitness: 300.752
+Max Fitness: 353.7
+
+Generation #75
+Average Fitness: 302.088
+Max Fitness: 355.1
+
+Generation #76
+Average Fitness: 305.483
+Max Fitness: 355.8
+
+Generation #77
+Average Fitness: 304.755
+Max Fitness: 355.8
+
+Generation #78
+Average Fitness: 307.126
+Max Fitness: 355.1
+
+Generation #79
+Average Fitness: 307.91
+Max Fitness: 354.5
+
+Generation #80
+Average Fitness: 307.77
+Max Fitness: 354.5
+
+Generation #81
+Average Fitness: 309.851
+Max Fitness: 360.9
+
+Generation #82
+Average Fitness: 310.154
+Max Fitness: 356.3
+
+Generation #83
+Average Fitness: 310.775
+Max Fitness: 357.5
+
+Generation #84
+Average Fitness: 312.109
+Max Fitness: 372.8
+
+Generation #85
+Average Fitness: 311.154
+Max Fitness: 372.8
+
+Generation #86
+Average Fitness: 317.303
+Max Fitness: 372.8
+
+Generation #87
+Average Fitness: 315.729
+Max Fitness: 372.8
+
+Generation #88
+Average Fitness: 317.848
+Max Fitness: 372.8
+
+Generation #89
+Average Fitness: 318.818
+Max Fitness: 372.8
+
+Generation #90
+Average Fitness: 320.535
+Max Fitness: 372.8
+
+Generation #91
+Average Fitness: 320.829
+Max Fitness: 367.2
+
+Generation #92
+Average Fitness: 322.678
+Max Fitness: 367.2
+
+Generation #93
+Average Fitness: 320.238
+Max Fitness: 366
+
+Generation #94
+Average Fitness: 321.214
+Max Fitness: 366
+
+Generation #95
+Average Fitness: 325.078
+Max Fitness: 366
+
+Generation #96
+Average Fitness: 324.099
+Max Fitness: 366
+
+Generation #97
+Average Fitness: 322.802
+Max Fitness: 366
+
+Generation #98
+Average Fitness: 328.082
+Max Fitness: 366
+
+Generation #99
+Average Fitness: 328.737
+Max Fitness: 372.8
+
+Generation #100
+Average Fitness: 326.947
+Max Fitness: 372.8
+
+Generation #101
+Average Fitness: 329.038
+Max Fitness: 372.8
+
+Generation #102
+Average Fitness: 325.817
+Max Fitness: 372.8
+
+Generation #103
+Average Fitness: 325.612
+Max Fitness: 381.4
+
+Generation #104
+Average Fitness: 328.292
+Max Fitness: 372.8
+
+Generation #105
+Average Fitness: 329.395
+Max Fitness: 372.8
+
+Generation #106
+Average Fitness: 332.746
+Max Fitness: 372.8
+
+Generation #107
+Average Fitness: 327.218
+Max Fitness: 372.3
+
+Generation #108
+Average Fitness: 331.548
+Max Fitness: 372.7
+
+Generation #109
+Average Fitness: 331.569
+Max Fitness: 372.3
+
+Generation #110
+Average Fitness: 331.251
+Max Fitness: 372.3
+
+Generation #111
+Average Fitness: 330.315
+Max Fitness: 374.2
+
+Generation #112
+Average Fitness: 330.752
+Max Fitness: 374.2
+
+Generation #113
+Average Fitness: 332.265
+Max Fitness: 374.2
+
+Generation #114
+Average Fitness: 329.895
+Max Fitness: 375.5
+
+Generation #115
+Average Fitness: 332.379
+Max Fitness: 375.5
+
+Generation #116
+Average Fitness: 336.48
+Max Fitness: 375.5
+
+Generation #117
+Average Fitness: 332.907
+Max Fitness: 375.5
+
+Generation #118
+Average Fitness: 333.22
+Max Fitness: 375.5
+
+Generation #119
+Average Fitness: 333.878
+Max Fitness: 378.7
+
+Generation #120
+Average Fitness: 339.119
+Max Fitness: 375.3
+
+Generation #121
+Average Fitness: 337.623
+Max Fitness: 375.3
+
+Generation #122
+Average Fitness: 339.056
+Max Fitness: 376.6
+
+Generation #123
+Average Fitness: 337.125
+Max Fitness: 376.6
+
+Generation #124
+Average Fitness: 338.393
+Max Fitness: 378.9
+
+Generation #125
+Average Fitness: 337.545
+Max Fitness: 376.6
+
+Generation #126
+Average Fitness: 337.146
+Max Fitness: 380.3
+
+Generation #127
+Average Fitness: 339.099
+Max Fitness: 380.3
+
+Generation #128
+Average Fitness: 335.073
+Max Fitness: 376.6
+
+Generation #129
+Average Fitness: 337.285
+Max Fitness: 381.3
+
+Generation #130
+Average Fitness: 334.927
+Max Fitness: 387.2
+
+Generation #131
+Average Fitness: 336.571
+Max Fitness: 387.2
+
+
+Number of Generations: 131
+Final Max Fitness: 387.2
+
+Max Fitness Chromosome: 
+Total Utility: 387.2
+Items Taken: 
+Item Number:   1    Utility:  4.5  Weight:        5.1  
+Item Number:   7    Utility:  5.4  Weight:        4.2  
+Item Number:   9    Utility:  8.4  Weight:        5.8  
+Item Number:   23   Utility:  6.3  Weight:        7.5  
+Item Number:   29   Utility:  8.2  Weight:        7.5  
+Item Number:   30   Utility:  6.3  Weight:        5.1  
+Item Number:   54   Utility:  6.4  Weight:        18.4 
+Item Number:   66   Utility:  9.1  Weight:        1.3  
+Item Number:   71   Utility:  0.1  Weight:        2.1  
+Item Number:   79   Utility:  9.5  Weight:        7.6  
+Item Number:   92   Utility:  0    Weight:        5.7  
+Item Number:   102  Utility:  6.7  Weight:        15   
+Item Number:   116  Utility:  3.4  Weight:        0.9  
+Item Number:   119  Utility:  7.8  Weight:        5.3  
+Item Number:   132  Utility:  4.8  Weight:        9.3  
+Item Number:   143  Utility:  8.9  Weight:        16.8 
+Item Number:   147  Utility:  8.9  Weight:        5.1  
+Item Number:   154  Utility:  3.9  Weight:        17.3 
+Item Number:   155  Utility:  5.8  Weight:        16.1 
+Item Number:   162  Utility:  9.7  Weight:        1.5  
+Item Number:   167  Utility:  6.8  Weight:        10.7 
+Item Number:   173  Utility:  7    Weight:        16.2 
+Item Number:   184  Utility:  4.7  Weight:        10.7 
+Item Number:   191  Utility:  6.4  Weight:        2.2  
+Item Number:   202  Utility:  9.6  Weight:        4.3  
+Item Number:   204  Utility:  9.7  Weight:        16.3 
+Item Number:   229  Utility:  9.1  Weight:        3.5  
+Item Number:   230  Utility:  9.6  Weight:        13.6 
+Item Number:   231  Utility:  9.6  Weight:        11.8 
+Item Number:   241  Utility:  7.6  Weight:        15.2 
+Item Number:   245  Utility:  1.5  Weight:        7    
+Item Number:   250  Utility:  8.7  Weight:        15.1 
+Item Number:   251  Utility:  4.7  Weight:        13.3 
+Item Number:   259  Utility:  0.9  Weight:        0.7  
+Item Number:   264  Utility:  9.1  Weight:        2.2  
+Item Number:   265  Utility:  10   Weight:        4.6  
+Item Number:   269  Utility:  8.4  Weight:        13   
+Item Number:   273  Utility:  7.7  Weight:        7.7  
+Item Number:   277  Utility:  9.3  Weight:        3.6  
+Item Number:   278  Utility:  2.6  Weight:        15.8 
+Item Number:   284  Utility:  6    Weight:        9.5  
+Item Number:   292  Utility:  7.8  Weight:        1.9  
+Item Number:   320  Utility:  9.3  Weight:        6.8  
+Item Number:   324  Utility:  3    Weight:        11.6 
+Item Number:   334  Utility:  9.5  Weight:        2.9  
+Item Number:   339  Utility:  9.4  Weight:        7.6  
+Item Number:   345  Utility:  2    Weight:        11.9 
+Item Number:   351  Utility:  5.6  Weight:        2.1  
+Item Number:   358  Utility:  8.2  Weight:        11.9 
+Item Number:   363  Utility:  5.1  Weight:        15.5 
+Item Number:   372  Utility:  7.3  Weight:        19.7 
+Item Number:   373  Utility:  6.7  Weight:        10   
+Item Number:   379  Utility:  8.7  Weight:        14.3 
+Item Number:   384  Utility:  9.1  Weight:        2.8  
+Item Number:   387  Utility:  9.9  Weight:        8.4  
+Item Number:   389  Utility:  3.2  Weight:        11.7 
+Item Number:   393  Utility:  9.3  Weight:        3    
